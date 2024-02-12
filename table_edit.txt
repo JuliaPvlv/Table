@@ -1,6 +1,8 @@
     <style>
-        .check {
+       .check {
             margin-top: 50px;
+            margin-left: 10px;
+            width: 95vw;
         }
 
         table.dataTable thead {
