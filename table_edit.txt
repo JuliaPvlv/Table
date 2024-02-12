@@ -1,4 +1,8 @@
     <style>
+        .check {
+            margin-top: 50px;
+        }
+
         table.dataTable thead {
             background-color: #da251d;
         }
@@ -80,7 +84,9 @@
             border-spacing: 2px;
             border-color: gray;
         }
+    
     </style>
+<div class="check">
     <div id="sample_1_wrapper" class="dataTables_wrapper no-footer">
 
         <!-- <div class="row">
@@ -2289,3 +2295,4 @@
 
         </div> -->
     </div>
+</div>
