@@ -2,7 +2,7 @@
        .check {
             margin-top: 50px;
            
-            width: 90%;
+            width: 95мц;
         }
 
         table.dataTable thead {
