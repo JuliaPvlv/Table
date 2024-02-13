@@ -6,7 +6,7 @@
         }
 
         table.dataTable thead {
-            background-color: #da251d;
+            background-color: #5A99D8;
         }
 
         table.dataTable tbody {
