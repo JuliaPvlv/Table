@@ -1,10 +1,10 @@
     <style>
-       .check {
+        .check {
             margin-top: 50px;
-            
+            margin-left: 10px;
             width: 95vw;
         }
-       
+
         table.dataTable thead {
             background-color: #5A99D8;
         }
@@ -30,7 +30,7 @@
             font-family: 'Nunito Sans', sans-serif;
             padding: 0 15px;
             font-size: 20px;
-            
+
         }
 
         th {
@@ -39,6 +39,7 @@
             font-weight: 300;
             padding: 15px 0;
             font-family: 'Nunito Sans', sans-serif;
+
         }
 
         table.dataTable {
@@ -58,12 +59,17 @@
             display: table-header-group;
             vertical-align: middle;
             border-color: inherit;
+
         }
 
         tbody {
             display: table-row-group;
             vertical-align: middle;
             border-color: inherit;
+        }
+
+        .table th {
+            width: 50vw;
         }
 
         .table td {
@@ -87,7 +93,10 @@
             border-spacing: 2px;
             border-color: gray;
         }
-    
+
+        .table-scrollable {
+            overflow-y: scroll;
+        }
     </style>
 <div class="check">
     <div id="sample_1_wrapper" class="dataTables_wrapper no-footer">
