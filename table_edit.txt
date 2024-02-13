@@ -1,10 +1,11 @@
     <style>
        .check {
             margin-top: 50px;
-            overflow-y: scroll;
+            
             width: 95vw;
         }
-
+        .table-scrollable{
+            overflow-y:scroll;
         table.dataTable thead {
             background-color: #5A99D8;
         }
