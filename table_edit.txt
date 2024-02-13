@@ -1,7 +1,7 @@
     <style>
        .check {
             margin-top: 50px;
-           
+            overflow-y: scroll;
             width: 95vw;
         }
 
@@ -30,6 +30,7 @@
             font-family: 'Nunito Sans', sans-serif;
             padding: 0 15px;
             font-size: 20px;
+            width:20vw;
         }
 
         th {
