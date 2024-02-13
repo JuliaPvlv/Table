@@ -1,6 +1,6 @@
     <style>
        .check {
-            margin-top: 250px;
+            margin-top: 50px;
             margin-left: 10px;
             width: 95vw;
         }
